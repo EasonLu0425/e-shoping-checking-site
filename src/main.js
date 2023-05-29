@@ -1,3 +1,6 @@
+import './scss/main.scss'
+console.log('JS loaded!')
+
 // chacking part
 const stepBtn = document.querySelector('.btn-control')
 const step1 = document.querySelector('.step1')
